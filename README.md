@@ -8,7 +8,7 @@ Converts RGB PDFs to print-ready CMYK (U.S. Web Coated SWOP v2), with optional p
 2. Open the downloaded file and drag **PDF to CMYK** onto **Applications**.
 3. Open it from Applications.
 
-Requires an Apple Silicon Mac (M1 or later) running macOS 12 or newer.
+Works on both Apple Silicon and Intel Macs running macOS 12 (Monterey) or newer.
 
 ## Updates
 
