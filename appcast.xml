@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>PDF to CMYK</title>
+    <item>
+      <title>Version 1.2</title>
+      <pubDate>Fri, 23 Oct 2026 04:03:52 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First installable release: per-file progress with a hide-away tab, page resizing with sizes in file names, Copy Details, print-quality image settings, and automatic updates.</p>]]></description>
+      <enclosure url="https://github.com/fusionnest-ca/pdf-to-cmyk/releases/download/v1.2/PDF-to-CMYK.dmg" sparkle:edSignature="uLSbno933SGX+D5tukIQiTMHcN+4QohZ5eoDJ2zIPzScBhr64J8xz4jWW9Z28OqTyn7XMZpHI/Gqaw557MPHBw==" length="23783016" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
