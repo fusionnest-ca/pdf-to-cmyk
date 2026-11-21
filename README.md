@@ -6,7 +6,7 @@ Converts RGB PDFs to print-ready CMYK (U.S. Web Coated SWOP v2), with optional p
 
 1. **[Download PDF-to-CMYK.dmg](https://github.com/fusionnest-ca/pdf-to-cmyk/releases/latest/download/PDF-to-CMYK.dmg)** (latest version).
 2. Open the downloaded file and drag **PDF to CMYK** onto **Applications**.
-3. Open it from Applications.
+3. Open it from Applications. It is signed by Fusion Nest and notarized by Apple, so it opens with a normal double-click.
 
 Works on both Apple Silicon and Intel Macs running macOS 12 (Monterey) or newer.
 
